@@ -117,7 +117,6 @@ I'm a passionate software developer currently pursuing my Master's in Computer S
 - **GitHub**: [github.com/darsh-foryou](https://github.com/darsh-foryou)  
 - **Portfolio**: [personal-site-taupe-theta.vercel.app](https://personal-site-taupe-theta.vercel.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=darsh-foryou)
 
 ---
 <p align="center">
