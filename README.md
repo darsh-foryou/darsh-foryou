@@ -87,10 +87,14 @@ I'm a passionate software developer currently pursuing my Master's in Computer S
 
 ## 🎯 Featured Projects
 
+### Coach AI
+- **Tech Stack**: Next.js, Clerk (authentication), Inngest (cron jobs), Postgre (Prisma database) 
+- Provides an all-in-one AI-driven platform for resume building, resume enhancement, cover letter and cold email generation, and personalized interview prep
+- Utilizes advanced keyword matching and industry insights to tailor application materials and deliver targeted career guidance 
+
 ### Expensify
 - **Tech Stack**: React.js, Redux, Node.js/Express, RESTful APIs  
 - Built a robust full-stack expense management app with Node.js/Express backend  
-- Created 8+ modular React components and optimized client-side routing, cutting load times by 20%  
 
 ### Code Editor Platform
 - **Tech Stack**: Next.js, Monaco API, Tailwind CSS, JavaScript  
