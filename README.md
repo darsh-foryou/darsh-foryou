@@ -27,7 +27,7 @@ I'm a passionate software developer currently pursuing my Master's in Computer S
 - Engineered a MongoDB Atlas-backed database to support high availability and enhance platform performance  
 - Implemented secure user authentication with MetaMask for 2,000+ users and rigorously tested API endpoints with Postman  
 
-### Full Stack Developer Intern @ PrideVel Consulting LLC (December 2021 – February 2022, Mumbai, India)
+### Full Stack Developer Intern @ PrideVel Consulting LLC (December 2021 – November 2022, Mumbai, India)
 - Spearheaded development of a responsive website, boosting user retention by 30%  
 - Integrated blockchain technology for smart contract execution among 500+ users  
 - Collaborated with cross-functional teams to align technical execution with business objectives  
