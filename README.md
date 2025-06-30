@@ -93,6 +93,12 @@ I'm a passionate software developer currently pursuing my Master's in Computer S
 - Features secure video consultation, Stripe-powered credit-based booking, and appointment tracking  
 - Includes REST API integrations for appointments, billing, and role-based access  
 
+### TripSmart
+- **Tech Stack**: React.js, Node.js, Firebase, Gemini AI, Google Cloud APIs  
+- AI-powered travel planner that suggests destinations, hotels, and itineraries  
+- Uses Gemini AI for personalized trip recommendations and real-time API data for maps/weather  
+- Includes authentication, trip history storage, and dynamic itinerary builder  
+
 ### Coach AI
 - **Tech Stack**: Next.js, Clerk (authentication), Inngest (cron jobs), PostgreSQL (Prisma ORM)  
 - AI-driven career platform with resume builder, cover letter generator, and mock interview coaching  
@@ -109,6 +115,7 @@ I'm a passionate software developer currently pursuing my Master's in Computer S
 ### BuyIt
 - **Tech Stack**: TypeScript, PostgreSQL, MongoDB Atlas  
 - E-commerce platform with Amazon-inspired features, load balancing, and role-based product management  
+
 
 ## 🏆 Achievements
 - Built AI-integrated platforms deployed on Vercel & Render  
