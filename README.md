@@ -6,14 +6,15 @@
 I'm a passionate software developer currently pursuing my Master's in Computer Science at Syracuse University. I enjoy building scalable applications and have hands-on experience with modern web technologies, blockchain solutions, and cloud infrastructures. I thrive in collaborative environments, translating business requirements into tangible and secure digital solutions.
 
 ## 🔭 Currently Working On
-- Enhancing skills in Next.js and React.js for dynamic web applications  
-- Exploring blockchain integrations and smart contracts  
-- Developing robust API endpoints and testing for security and scalability  
+- Building **CureLink**, a doctor consultation platform with secure video calls and credit-based booking  
+- Enhancing skills in **Next.js**, **PostgreSQL**, and **Gemini AI** for AI-integrated platforms  
+- Exploring **Agentic AI** architectures and workflow automation using tools like Inngest  
+- Strengthening **CI/CD** practices using GitHub Actions, Docker, and Terraform  
 
 ## 📚 Currently Learning
-- Advanced full-stack patterns (Next.js, Express)  
-- DevOps practices for continuous integration and deployment  
-- Scalable cloud infrastructure (AWS, Heroku, Vercel)  
+- Agentic AI and multi-agent workflow orchestration  
+- CI/CD pipelines and infrastructure as code (IaC)  
+- Full-stack automation using **Next.js**, **Prisma ORM**, and cloud APIs  
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/modi-darshil)
@@ -25,11 +26,11 @@ I'm a passionate software developer currently pursuing my Master's in Computer S
 ### Software Engineer Intern @ PrideVel Consulting LLC (June 2024 - August 2024, Illinois, USA)
 - Launched a blockchain marketplace with Next.js, enabling secure asset transactions for 1,000+ users  
 - Engineered a MongoDB Atlas-backed database to support high availability and enhance platform performance  
-- Implemented secure user authentication with MetaMask for 2,000+ users and rigorously tested API endpoints with Postman  
+- Implemented secure user authentication with MetaMask and rigorously tested APIs using Postman  
 
-### Full Stack Developer Intern @ PrideVel Consulting LLC (December 2021 – November 2022, Mumbai, India)
+### Full Stack Developer @ PrideVel Consulting LLC (December 2021 – March 2023, Mumbai, India)
 - Spearheaded development of a responsive website, boosting user retention by 30%  
-- Integrated blockchain technology for smart contract execution among 500+ users  
+- Integrated blockchain technology for smart contract execution  
 - Collaborated with cross-functional teams to align technical execution with business objectives  
 
 ## 🛠️ Tech Stack
@@ -86,28 +87,33 @@ I'm a passionate software developer currently pursuing my Master's in Computer S
 
 ## 🎯 Featured Projects
 
+### CureLink
+- **Tech Stack**: Next.js, Clerk (auth), PrismaORM, PostgreSQL, Vonage Video API  
+- A doctor appointment platform with role-based dashboards for patients, doctors, and admins  
+- Features secure video consultation, Stripe-powered credit-based booking, and appointment tracking  
+- Includes REST API integrations for appointments, billing, and role-based access  
+
 ### Coach AI
-- **Tech Stack**: Next.js, Clerk (authentication), Inngest (cron jobs), Postgre (Prisma database) 
-- Provides an all-in-one AI-driven platform for resume building, resume enhancement, cover letter and cold email generation, and personalized interview prep
-- Utilizes advanced keyword matching and industry insights to tailor application materials and deliver targeted career guidance 
+- **Tech Stack**: Next.js, Clerk (authentication), Inngest (cron jobs), PostgreSQL (Prisma ORM)  
+- AI-driven career platform with resume builder, cover letter generator, and mock interview coaching  
+- Uses Gemini AI and keyword matching to deliver personalized career resources  
 
 ### Expensify
 - **Tech Stack**: React.js, Redux, Node.js/Express, RESTful APIs  
-- Built a robust full-stack expense management app with Node.js/Express backend  
+- Built a full-stack expense management system with modern design and authentication  
 
 ### Code Editor Platform
 - **Tech Stack**: Next.js, Monaco API, Tailwind CSS, JavaScript  
-- Built a VS Code-like web editor with Next.js and Redux for state management  
-- Improved performance by reducing load times by 35% and enabling advanced algorithm testing in multiple languages  
+- VS Code-like web editor supporting multi-language testing and real-time UI updates  
 
 ### BuyIt
 - **Tech Stack**: TypeScript, PostgreSQL, MongoDB Atlas  
-- Developed an e-commerce site with Amazon-inspired features and robust cloud infrastructure  
-- Supported 500+ concurrent users with effective load balancing and resource management  
+- E-commerce platform with Amazon-inspired features, load balancing, and role-based product management  
 
 ## 🏆 Achievements
-- Successfully implemented secure user authentication methods  
-- Created high-performance solutions by leveraging best practices in cloud and blockchain  
+- Built AI-integrated platforms deployed on Vercel & Render  
+- Successfully implemented secure user authentication using Clerk and MetaMask  
+- Designed real-time video consultation experience using Vonage API  
 
 ## 📫 How to reach me
 - **Phone**: 315-756-1195  
@@ -116,8 +122,8 @@ I'm a passionate software developer currently pursuing my Master's in Computer S
 - **GitHub**: [github.com/darsh-foryou](https://github.com/darsh-foryou)  
 - **Portfolio**: [personal-site-taupe-theta.vercel.app](https://personal-site-taupe-theta.vercel.app/)
 
-
 ---
+
 <p align="center">
-  <i>Open to collaborating on exciting projects and learning new technologies.</i>
+  <i>Open to collaborating on exciting projects and exploring opportunities in full-stack, AI, and automation.</i>
 </p>
