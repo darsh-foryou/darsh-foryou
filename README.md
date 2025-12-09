@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Developer+%7C+Full+Stack+Engineer+%7C+Blockchain+Enthusiast)
 
-## 🚀 About Me
+## 🚀 About Darshil
 I'm a passionate software developer currently pursuing my Master's in Computer Science at Syracuse University. I enjoy building scalable applications and have hands-on experience with modern web technologies, blockchain solutions, and cloud infrastructures. I thrive in collaborative environments, translating business requirements into tangible and secure digital solutions.
 
 ## 🔭 Currently Working On
