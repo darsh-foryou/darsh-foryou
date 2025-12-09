@@ -23,7 +23,20 @@ I'm a passionate software developer currently pursuing my Master's in Computer S
 
 ## 💼 Professional Experience
 
-### Software Engineer Intern @ Forman Tech Group LLC (June 2024 - Feb 2025, Austin, USA)
+###Software Engineer @ Walmart (June 2025 - Present , Remote)
+- Designed and developed Spring Boot microservices supporting Walmart’s order, payment, and inventory systems achieving sub-200 ms latency by tuning 
+distributed workflows and optimizing thread pools.
+- Built & scaled REST/GraphQL APIs with versioning, validation, and idempotency, improving response times by 40% across multi-channel retail integrations.
+- Implemented Kafka event pipelines with retries and DLQs, sustaining 99.99% uptime; deployed containerized services on AWS EKS using Docker, Terraform,
+blue-green rollouts, and auto-scaling for zero-downtime releases.
+- Automated CI/CD with Jenkins and GitHub Actions plus JUnit, Playwright, and schema validation, maintaining 90%+ coverage, cutting regression defects
+35%, and improving MTTR 45% through Prometheus, Grafana, and CloudWatch monitoring.
+- Built React + Redux dashboards for real-time health, throughput, and failure recovery, enabling faster triage and data-driven decisions; optimized PostgreSQL + Redis on 10 TB datasets for 35% higher throughput.
+- Strengthened security and audit logging via Spring Security, OAuth2, JWT, and rate-limiting policies, ensuring compliance and internal enterprise standards
+- Collaborated with frontend, backend, and QA teams to maintain API specs, architecture diagrams, and technical documentation, improving onboarding
+speed and integration consistency across engineering teams.
+
+### Software Engineer @ Forman Tech Group LLC (June 2024 - Feb 2025, Austin, USA)
 - Engineered full-stack features for a multi-tenant client and recruiter management platform, enabling enterprise partners to monitor hiring pipelines, track
 KPIs, and streamline onboarding.
 - Developed modular UI components in React + Next.js and integrated them with Node.js APIs to deliver responsive recruiter dashboards, candidate insights,
