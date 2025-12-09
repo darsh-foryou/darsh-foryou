@@ -23,15 +23,28 @@ I'm a passionate software developer currently pursuing my Master's in Computer S
 
 ## 💼 Professional Experience
 
-### Software Engineer Intern @ PrideVel Consulting LLC (June 2024 - August 2024, Illinois, USA)
-- Launched a blockchain marketplace with Next.js, enabling secure asset transactions for 1,000+ users  
-- Engineered a MongoDB Atlas-backed database to support high availability and enhance platform performance  
-- Implemented secure user authentication with MetaMask and rigorously tested APIs using Postman  
+### Software Engineer Intern @ Forman Tech Group LLC (June 2024 - Feb 2025, Austin, USA)
+• Engineered full-stack features for a multi-tenant client and recruiter management platform, enabling enterprise partners to monitor hiring pipelines, track
+KPIs, and streamline onboarding.
+• Developed modular UI components in React + Next.js and integrated them with Node.js APIs to deliver responsive recruiter dashboards, candidate insights,
+and real-time notifications, cutting average page load times by 30%.
+• Implemented analytics instrumentation across web and backend layers (via Kafka event pipelines and PostgreSQL triggers), enabling end-to-end visibility
+into user engagement, funnel performance, and feature adoption trends.
+• Optimized performance and data access using Redis caching, query tuning, and asynchronous processing, improving API throughput and dashboard
+responsiveness during high-volume client activity by 35%.
+• Automated deployments and observability through AWS EKS, Terraform, and GitHub Actions, introducing CI/CD pipelines, Prometheus metrics, and Grafana
+dashboards that improved deployment velocity and reduced MTTR by 40%.
+• Integrated an agentic LLM assistant that generated usage summaries, adoption insights, and automated RCA reports for internal product teams helping 
+identify friction points and boosting overall user retention by 25%.
 
-### Full Stack Developer @ PrideVel Consulting LLC (December 2021 – March 2023, Mumbai, India)
-- Spearheaded development of a responsive website, boosting user retention by 30%  
-- Integrated blockchain technology for smart contract execution  
-- Collaborated with cross-functional teams to align technical execution with business objectives  
+### Full Stack Developer @ PrideVel Consulting LLC (December 2021 – March 2023 & Jan 2023 - July 2023, Mumbai, India)
+• Architected backend services with RBAC, JWT authentication, and MongoDB, reducing authorization errors by 30% and improving API reliability through 
+fault-tolerant design.
+• Built analytics dashboards and feature flag systems enabling real-time A/B testing, boosting engagement by 30% and driving product iteration efficiency.
+• Automated CI/CD pipelines via GitHub Actions and Terraform, cutting deployment overhead by 40% and enabling continuous blue-green rollouts.
+• Optimized backend and database performance through caching, indexing, and sharding, improving throughput by 25% and maintaining low
+latency operations under high traffic.
+• Leveraged OOP, data structures, and algorithms to enhance API response times and async workflows, ensuring high throughput during peak user sessions.
 
 ## 🛠️ Tech Stack
 
