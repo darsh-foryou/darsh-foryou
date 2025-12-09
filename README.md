@@ -23,7 +23,7 @@ I'm a passionate software developer currently pursuing my Master's in Computer S
 
 ## 💼 Professional Experience
 
-###Software Engineer @ Walmart (June 2025 - Present , Remote)
+### Software Engineer @ Walmart (June 2025 - Present , Remote)
 - Designed and developed Spring Boot microservices supporting Walmart’s order, payment, and inventory systems achieving sub-200 ms latency by tuning 
 distributed workflows and optimizing thread pools.
 - Built & scaled REST/GraphQL APIs with versioning, validation, and idempotency, improving response times by 40% across multi-channel retail integrations.
